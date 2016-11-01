@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--心动卡片-->
+    <declare-styleable name="SlideCard">
+        <attr name="itemPaddingTop" format="dimension" /><!--卡片与顶部的距离-->
+        <attr name="yOffsetStep" format="dimension" /><!--层叠卡片Y轴偏移量-->
+        <attr name="scaleRatio" format="float" /><!--层叠卡片缩放比例步进-->
+    </declare-styleable>
+</resources>
